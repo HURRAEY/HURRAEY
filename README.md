@@ -13,8 +13,8 @@ Currently a Frontend Developer at [AnAI](https://an-ai.ai/).
 ### Libraries
 
 - **[daw-engine](https://github.com/HURRAEY/daw-engine)** - A TypeScript engine for multitrack audio editing, undo/redo, and audio routing.
+- **[Timeline virtual scroll](https://github.com/HURRAEY/daw-engine/blob/main/ui-utils/src/scroll/VirtualScroll.ts)** - Framework-independent virtual scrolling for DAW timelines, included in daw-engine.
 - **[video-thumbnail](https://www.npmjs.com/package/@hurraey/video-thumbnail)** - Browser video thumbnails with viewport-aware scheduling and background decoding using Web Workers.
-- **[Timeline UI utilities](https://github.com/HURRAEY/daw-engine/tree/main/ui-utils)** - Framework-independent tools for timeline scrolling, zooming, and virtualization, included in daw-engine.
 
 ### Open Source Contributions
 
