@@ -1,6 +1,6 @@
 ## About
 
-Hello, I'm Sengjin Kim, an audio software engineer building DAWs and media editors for the web and desktop.
+Hello, I'm Sengjin Kim, software engineer building DAWs and media editors for the web and desktop.
 
 I focus on responsive editing experiences and reusable tools for audio and media processing.
 
