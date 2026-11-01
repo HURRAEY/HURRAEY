@@ -1,8 +1,8 @@
 <p>
-  <img src="./assets/terminal.svg" alt="HURRAEY - Frontend Engineer. Media editors for web and desktop." width="100%" />
+  <img src="./assets/terminal.svg" alt="HURRAEY - Audio Software Engineer. DAWs and audio editing tools for web and desktop." width="100%" />
 </p>
 
-### `$ cat daw-engine.md`
+### `$ ls libraries/`
 
 #### [daw-engine](https://github.com/HURRAEY/daw-engine) · TypeScript audio editing library
 
@@ -16,6 +16,24 @@ Audio playback is one part of an editor. Tracks, clip placement, undo/redo, rout
 - **Shared project model** - Manage tracks, mixer routing, automation data, and serializable project snapshots, with utilities for Canvas-based timelines, waveforms, and virtual scrolling.
 
 [Source](https://github.com/HURRAEY/daw-engine) · [Core](https://github.com/HURRAEY/daw-engine/tree/main/core) · [Timeline UI utilities](https://github.com/HURRAEY/daw-engine/tree/main/ui-utils)
+
+#### [@hurraey/video-thumbnail](https://www.npmjs.com/package/@hurraey/video-thumbnail) · Video timeline thumbnails
+
+A framework-independent TypeScript library that prioritizes thumbnails currently visible in the timeline.
+
+- **Three-stage generation** - Display a poster fallback first, seek visible timestamps with `HTMLVideoElement`, and backfill non-visible frames with Web Workers and WebCodecs.
+- **Viewport-aware scheduling** - Discard stale results after scrolling or zooming, prefer requested-time frames over coarse background frames, and release resources when a source is removed.
+
+[npm package](https://www.npmjs.com/package/@hurraey/video-thumbnail)
+
+#### [Timeline virtualization](https://github.com/HURRAEY/daw-engine/tree/main/ui-utils#track-layout-and-virtual-scroll) · daw-engine UI utilities
+
+Reusable TypeScript tools for rendering the visible portion of a DAW timeline, included in `@daw-engine/ui-utils`.
+
+- **Visible items and overscan** - Calculate which items to render, with support for variable item sizes, cached offsets, and binary search for the first visible item.
+- **Rendering stays in the application** - Return item positions and spacer sizes without depending on a UI framework. Combine with track layout and viewport utilities for scrolling and zooming.
+
+[Documentation](https://github.com/HURRAEY/daw-engine/tree/main/ui-utils) · [VirtualScroll source](https://github.com/HURRAEY/daw-engine/blob/main/ui-utils/src/scroll/VirtualScroll.ts)
 
 ### `$ cat contributions.md`
 

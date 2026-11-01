@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="310" viewBox="0 0 1000 310" role="img" aria-labelledby="title desc">
-  <title id="title">HURRAEY - Frontend Engineer</title>
-  <desc id="desc">A dark terminal introducing HURRAEY, a frontend engineer building media editors for web and desktop.</desc>
+  <title id="title">HURRAEY - Audio Software Engineer</title>
+  <desc id="desc">A dark terminal introducing HURRAEY, an audio software engineer building DAWs and audio editing tools for web and desktop.</desc>
   <rect x="1" y="1" width="998" height="308" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
   <path d="M15 1h970a14 14 0 0 1 14 14v33H1V15A14 14 0 0 1 15 1Z" fill="#161b22"/>
   <path d="M1 48h998" stroke="#30363d"/>
@@ -10,8 +10,8 @@
   <g font-family="Menlo, Consolas, 'Liberation Mono', monospace">
     <text x="500" y="30" text-anchor="middle" font-size="14" fill="#8b949e">hurraey / profile.sh</text>
     <text x="36" y="89" font-size="16" fill="#8b949e"><tspan fill="#79c0ff">hurraey@github</tspan><tspan>:~$ ./about</tspan></text>
-    <text x="34" y="145" font-size="40" font-weight="700" letter-spacing="1" fill="#f0f6fc">HURRAEY<tspan font-size="18" font-weight="400" fill="#79c0ff"> / Frontend Engineer</tspan></text>
-    <text x="36" y="184" font-size="18" fill="#c9d1d9">Building media editors for the web &amp; desktop.</text>
+    <text x="34" y="145" font-size="40" font-weight="700" letter-spacing="1" fill="#f0f6fc">HURRAEY<tspan font-size="18" font-weight="400" fill="#79c0ff"> / Audio Software Engineer</tspan></text>
+    <text x="36" y="184" font-size="18" fill="#c9d1d9">Building DAWs &amp; audio editing tools for web &amp; desktop.</text>
     <text x="36" y="225" font-size="16"><tspan fill="#8b949e">stack   </tspan><tspan fill="#79c0ff">React</tspan><tspan fill="#484f58"> / </tspan><tspan fill="#79c0ff">TypeScript</tspan><tspan fill="#484f58"> / </tspan><tspan fill="#79c0ff">Electron</tspan><tspan fill="#484f58"> / </tspan><tspan fill="#79c0ff">Web Audio</tspan></text>
     <text x="36" y="267" font-size="16" fill="#8b949e"><tspan fill="#7ee787">$</tspan><tspan> build something worth editing.</tspan></text>
     <rect x="374" y="253" width="9" height="18" fill="#79c0ff"/>
