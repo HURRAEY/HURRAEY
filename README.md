@@ -1,7 +1,3 @@
-<p>
-  <img src="./assets/terminal.svg" alt="HURRAEY - Audio Software Engineer. DAWs and audio editing tools for web and desktop." width="100%" />
-</p>
-
 ## About
 
 Hello, I'm Sengjin Kim, an audio software engineer building DAWs and media editors for the web and desktop.
@@ -24,7 +20,4 @@ Currently a Frontend Developer at [AnAI](https://an-ai.ai/).
 - **Tone.js** - Fixed [audio scheduling](https://github.com/Tonejs/Tone.js/pull/1458) and improved [test coverage](https://github.com/Tonejs/Tone.js/pull/1453).
 - **Web Audio API** - Submitted [output-device switching clarifications](https://github.com/WebAudio/web-audio-api/pull/2684) and fixed [Git configuration](https://github.com/WebAudio/web-audio-api/pull/2682) and [contribution docs](https://github.com/WebAudio/web-audio-api/pull/2683).
 
-### Links
-
-[Blog](https://devlog.dropai.site/) · [GitHub](https://github.com/HURRAEY) · [Personal GitHub](https://github.com/whizzkid1452)
 
