@@ -1,10 +1,10 @@
 ## About
 
-Hello, I'm Sengjin Kim, software engineer building DAWs and media editors for the web and desktop.
+Hello, I'm Sengjin Kim, a Frontend Engineer building high-performance web applications and interactive desktop tools. 
 
-I focus on responsive editing experiences and reusable tools for audio and media processing.
+I specialize in complex state management, responsive UI performance, and scalable component architecture. 
 
-Currently a Frontend Developer at [AnAI](https://an-ai.ai/).
+Currently a Frontend Engineer at [AnAI](https://an-ai.ai/).
 
 ### Libraries
 
