@@ -1,6 +1,6 @@
 ## About
 
-Hello, I'm Sengjin Kim, a Frontend Engineer building high-performance web applications and interactive desktop tools. 
+Hello, I'm a Frontend Engineer building high-performance web applications and interactive desktop tools. 
 
 I specialize in complex state management, responsive UI performance, and scalable component architecture. 
 
